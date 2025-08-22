@@ -1,0 +1,10 @@
+artifact_location: file:///Users/saketh/Desktop/Resources/Projects/ML_Life_Cycle/mlflow-exp-track/mlruns/624374933172676639/models/m-177e2f9b99e146a59f17a73b7ffe5e36/artifacts
+creation_timestamp: 1755848433006
+experiment_id: '624374933172676639'
+last_updated_timestamp: 1755848435227
+model_id: m-177e2f9b99e146a59f17a73b7ffe5e36
+model_type: null
+name: model
+source_run_id: 99dba003306c43de8474b447e76f1b00
+status: 2
+status_message: null

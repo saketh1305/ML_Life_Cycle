@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saketh/Desktop/Resources/Projects/ML_Life_Cycle/mlflow-exp-track/mlruns/624374933172676639/2a18e340d468447db19dd70ab36fa1cc/artifacts
+end_time: 1755848436856
+entry_point_name: ''
+experiment_id: '624374933172676639'
+lifecycle_stage: active
+run_id: 2a18e340d468447db19dd70ab36fa1cc
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755848435230
+status: 3
+tags: []
+user_id: saketh

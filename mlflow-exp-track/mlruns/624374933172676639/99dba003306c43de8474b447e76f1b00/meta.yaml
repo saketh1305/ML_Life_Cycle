@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saketh/Desktop/Resources/Projects/ML_Life_Cycle/mlflow-exp-track/mlruns/624374933172676639/99dba003306c43de8474b447e76f1b00/artifacts
+end_time: 1755848435229
+entry_point_name: ''
+experiment_id: '624374933172676639'
+lifecycle_stage: active
+run_id: 99dba003306c43de8474b447e76f1b00
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755848432983
+status: 3
+tags: []
+user_id: saketh

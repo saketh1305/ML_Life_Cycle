@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saketh/Desktop/Resources/Projects/ML_Life_Cycle/mlflow-exp-track/mlruns/624374933172676639/aa6b09040d8d4518905d4d8257af955e/artifacts
+end_time: 1755848438393
+entry_point_name: ''
+experiment_id: '624374933172676639'
+lifecycle_stage: active
+run_id: aa6b09040d8d4518905d4d8257af955e
+run_name: SVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755848436858
+status: 3
+tags: []
+user_id: saketh
